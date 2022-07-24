@@ -1,4 +1,6 @@
-# fresh project
+# Description
+
+A simple Hello World Deno project
 
 ### Usage
 
